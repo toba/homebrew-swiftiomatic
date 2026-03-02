@@ -1,9 +1,9 @@
 class Swiftiomatic < Formula
   desc "AST-based Swift code analysis CLI — lint, format, and detect anti-patterns"
   homepage "https://github.com/toba/swiftiomatic"
-  url "https://github.com/toba/swiftiomatic/releases/download/v0.16.0/swiftiomatic-v0.16.0-arm64.tar.gz"
-  version "0.16.0"
-  sha256 "2a967a28e4a71d0fb49176865e9abc28282525a035a4e2ad28766a885012457c"
+  url "https://github.com/toba/swiftiomatic/releases/download/v0.17.0/swiftiomatic-v0.17.0-arm64.tar.gz"
+  version "0.17.0"
+  sha256 "18ad3841b417c679e79e711f0d097e7b3c32a478a1ae57c5cfc89523e6ca5ad9"
   license "MIT"
 
   depends_on :macos => :sequoia
